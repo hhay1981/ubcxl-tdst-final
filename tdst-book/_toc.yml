@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: notebooks/chapter_1/libraries
+- file: docs/chapter_2/science
+- file: notebooks/chapter_3/grizzlies
+- file: docs/chapter_4/aquariums
+- file: genindex.md
