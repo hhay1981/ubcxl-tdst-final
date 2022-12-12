@@ -13,6 +13,7 @@ The Jupyter Book must contain these elements:
 - 2 Jupyter Notebook files
 They must be split over at least 2 parts in the table of contents
 <br>
+
 Each Markdown file must contain:
 - 2 block math equations
 - 2 code blocks
@@ -21,8 +22,8 @@ Each Markdown file must contain:
     - *I think this was meant for the Jupyter Book*
 - 1 margin content
     - *Again, I think this is for the book, not the .md file*
-    
-<br>
+<br>    
+
 Each Jupyter Notebook file must contain:<br>
 
 - 5 markdown cells with at least:
