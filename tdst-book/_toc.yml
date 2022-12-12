@@ -3,9 +3,17 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: notebooks/chapter_1/libraries
-- file: docs/chapter_2/science
-- file: notebooks/chapter_3/grizzlies
-- file: docs/chapter_4/aquariums
-- file: genindex.md
+parts:
+  - caption: Library Notebook
+    chapters:
+    - file: notebooks/chapter_1/libraries
+  - caption: Science Markdown
+    chapters:
+    - file: docs/chapter_2/science
+      - caption: Grizzly Bears Notebook
+    chapters:
+    - file: notebooks/chapter_3/grizzlies
+  - caption: Freshwater Aquariums Markdown
+    chapters:
+    - file: docs/chapter_4/aquariums
+- file: genindex
