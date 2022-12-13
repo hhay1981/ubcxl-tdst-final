@@ -19,9 +19,7 @@ Each Markdown file must contain:
 - 2 code blocks
 - 2 image files
 - 2 admonitions
-    - *I think this was meant for the Jupyter Book*
 - 1 margin content
-    - *Again, I think this is for the book, not the .md file*
 <br>    
 
 Each Jupyter Notebook file must contain:<br>
